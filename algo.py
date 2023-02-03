@@ -1,7 +1,7 @@
 import math
 from dataclasses import dataclass
 from dataclasses_json import dataclass_json
-from PIL import Image, ImageDraw
+from PIL import Image
 
 @dataclass_json
 @dataclass
